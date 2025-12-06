@@ -1,0 +1,28 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Sensitive files
+.env
+research_data_afisha.sql
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swomy_venv/
+my_venv/
