@@ -19,6 +19,7 @@ Thumbs.db
 # Sensitive files
 .env
 research_data_afisha.sql
+project_with_review.ipynb
 
 # IDE
 .vscode/
